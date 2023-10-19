@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "455226896738",
+    "project_id": "protec-industrial-app",
+    "storage_bucket": "protec-industrial-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455226896738:android:9c4ad48ebfc9f15ac87c3b",
+        "android_client_info": {
+          "package_name": "com.portosdeveloper.protecadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455226896738-g3s7gs4fus95n1gmvo9a2avkg3lq6mvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1_zexmH6FQr-uS3mtcDHKBov3s6grVhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455226896738-g3s7gs4fus95n1gmvo9a2avkg3lq6mvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455226896738:android:55321885898d26f2c87c3b",
+        "android_client_info": {
+          "package_name": "com.portosdeveloper.protecworkshopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455226896738-g3s7gs4fus95n1gmvo9a2avkg3lq6mvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1_zexmH6FQr-uS3mtcDHKBov3s6grVhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455226896738-g3s7gs4fus95n1gmvo9a2avkg3lq6mvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
